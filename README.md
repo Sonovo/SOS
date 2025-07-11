@@ -33,11 +33,21 @@
 
 ---
 
-## 📷 Screenshots & Demo
+---
 
-*(Coming soon – demo video and images will be added here)*  
-You can also request a personal walkthrough or app showcase by contacting me directly.
+## 📷 Screenshots
 
+### 📊 Main Dashboard – SOS ContentView
+
+![SOS Dashboard](screens/dashboard.jpg)
+
+This is the main screen of the SOS app. It shows:
+- Live air pressure and cooling temperatures
+- Real-time silo levels (Silo 1–6)
+- Energy usage per machine (Husky18–20), with color-coded load bars
+- Instant access to: AI Assistant 🤖, Search 🔎, QR Code Scanner 📷, and Alarm View 🔔
+
+Designed for mobile-first SCADA control and quick response in field operations.
 ---
 
 ## 📄 About the Developer
