@@ -39,7 +39,7 @@
 
 ### 📊 Main Dashboard – SOS ContentView
 
-![SOS Dashboard](screens/dashboard.jpg)
+![SOS Dashboard](screens/dashboard.png)
 
 This is the main screen of the SOS app. It shows:
 - Live air pressure and cooling temperatures
