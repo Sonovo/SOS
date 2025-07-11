@@ -39,7 +39,7 @@
 
 ### 📊 Main Dashboard – SOS ContentView
 
-![SOS Dashboard](screens/dashboard.PNG)
+<img src="screens/dashboard.PNG" alt="SOS Dashboard" width="400"/>
 
 
 This is the main screen of the SOS app. It shows:
