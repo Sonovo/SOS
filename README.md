@@ -25,11 +25,11 @@ Live, mobile access to factory operations. Key features include:
 
 A digital engineer’s toolbox packed with intelligence:
 
-- 📊 **Energy Consumption Insights** – Hourly, daily, and monthly usage charts per machine
-- 🔍 **Store Part Search** – Instantly search part data from a live Firebase database
-- 📷 **QR Code Scanner** – Scan machine parts to load manuals, metadata, images, and related documents
-- 🤖 **AI Assistant (GPT-powered)** – Ask natural questions about machines, parts, or fault codes — get instant answers and troubleshooting
-- 📄 **PDF Report Generation** – Export energy usage or shift performance reports directly from the app
+-  **Energy Consumption Insights** – Hourly, daily, and monthly usage charts per machine
+-  **Store Part Search** – Instantly search part data from a live Firebase database
+-  **QR Code Scanner** – Scan machine parts to load manuals, metadata, images, and related documents
+-  **AI Assistant (GPT-powered)** – Ask natural questions about machines, parts, or fault codes — get instant answers and troubleshooting
+-  **PDF Report Generation** – Export energy usage or shift performance reports directly from the app
 
 ---
 
