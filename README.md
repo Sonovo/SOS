@@ -70,11 +70,9 @@ This is the main dashboard of the SOS app. It shows:
 ##  About the Developer
 
 Built by **Reza (@Sonovo)** – SCADA Engineer and iOS Developer.  
-Currently working at Esterform Packaging while building SOS independently.  
-Open to part-time collaboration, remote consulting, or freelance SCADA/automation support.
 
 ---
 
-## 📜 License
+##  License
 
 MIT License – Free to use, fork, and build upon.
