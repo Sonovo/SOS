@@ -4,24 +4,24 @@
 
 ---
 
-## 🧱 App Structure
+##  App Structure
 
 The SOS app is built around two powerful modules:
 
 ---
 
-### 1. 🔴 Realtime Monitoring
+### 1.  Realtime Monitoring
 
 Live, mobile access to factory operations. Key features include:
 
-- 📡 **Live Equipment Data** – Monitor air & hydraulic pressure, cooling temperatures, and silo levels
-- 🚨 **Fault Detection** – Automatically detects abnormal conditions (e.g. fire alarms, pressure drops, compressor faults)
-- 🔔 **Smart Notifications** – Instant alerts when any value goes out of range or a fault is triggered
-- 📲 **Designed for Field Engineers** – See system health at a glance, take action on the spot
+-  **Live Equipment Data** – Monitor air & hydraulic pressure, cooling temperatures, and silo levels
+-  **Fault Detection** – Automatically detects abnormal conditions (e.g. fire alarms, pressure drops, compressor faults)
+-  **Smart Notifications** – Instant alerts when any value goes out of range or a fault is triggered
+-  **Designed for Field Engineers** – See system health at a glance, take action on the spot
 
 ---
 
-### 2. 🧠 Smart Tools & Data Analysis
+### 2.  Smart Tools & Data Analysis
 
 A digital engineer’s toolbox packed with intelligence:
 
@@ -33,7 +33,7 @@ A digital engineer’s toolbox packed with intelligence:
 
 ---
 
-## 👷 Who It's For
+##  Who It's For
 
 - SCADA and automation engineers  
 - Factory and utilities technicians  
@@ -41,7 +41,7 @@ A digital engineer’s toolbox packed with intelligence:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Swift (iOS native)
 - Firebase (Realtime Database + Storage)
@@ -51,9 +51,9 @@ A digital engineer’s toolbox packed with intelligence:
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
-### 📊 Main Dashboard – SOS ContentView
+###  Main Dashboard – SOS ContentView
 
 <p align="center">
   <img src="screens/dashboard.PNG" alt="SOS Dashboard" width="400"/>
@@ -67,7 +67,7 @@ This is the main dashboard of the SOS app. It shows:
 
 ---
 
-## 👨‍💻 About the Developer
+##  About the Developer
 
 Built by **Reza (@Sonovo)** – SCADA Engineer and iOS Developer.  
 Currently working at Esterform Packaging while building SOS independently.  
