@@ -66,6 +66,14 @@ This is the main dashboard of the SOS app. It shows:
 - Fast access to AI Assistant, Store Search, QR Scanner, and Alarms
 
 ---
+## 🔍 Store Search Feature
+
+**Tap on "Store Search" to quickly find parts by name, ZTP code, or description.**  
+Supports auto-suggestions and typo-tolerance to help you even if spelling isn't perfect.
+
+👇 Watch how it works in the demo video:
+
+[▶️ Watch StoreSearch.mp4](videos/StoreSearch.mp4)
 
 ##  About the Developer
 
