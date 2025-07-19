@@ -74,7 +74,7 @@ Supports auto-suggestions and typo-tolerance to help you even if spelling isn't 
 👇 Watch how it works in the demo video:
 
 [▶️ Watch StoreSearch.mp4](Videos/StoreSearch.mp4)
-
+(If it doesn't play in GitHub, click "View raw" to open it in your browser.)
 ##  About the Developer
 
 Built by **Reza (@Sonovo)** – SCADA Engineer and iOS Developer.  
