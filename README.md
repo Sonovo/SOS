@@ -73,8 +73,12 @@ Supports auto-suggestions and typo-tolerance to help you even if spelling isn't 
 
 👇 Watch how it works in the demo video:
 
-▶️ [Watch Store Search Demo](https://drive.google.com/open?id=1q_O_wIg-M-hHYdOrUy7BY57rejrLL9xr&usp=drive_fs)  
+▶️ [Watch Store Search](https://drive.google.com/open?id=1q_O_wIg-M-hHYdOrUy7BY57rejrLL9xr&usp=drive_fs)  
 (If video doesn’t play yet, click **Download** to view it while processing)
+
+### 🔵 Pressure & Temperature Monitoring  
+[▶️ Watch Pressure & Temperature](https://drive.google.com/open?id=1KAQYGHL0KfimwG6g9CMc3eiNPZHp10Uk&usp=drive_fs)
+
 ##  About the Developer
 
 Built by **Reza (@Sonovo)** – SCADA Engineer and iOS Developer.  
