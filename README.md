@@ -79,6 +79,18 @@ Supports auto-suggestions and typo-tolerance to help you even if spelling isn't 
 ### 🔵 Pressure & Temperature Monitoring  
 [▶️ Watch Pressure & Temperature](https://drive.google.com/open?id=1KAQYGHL0KfimwG6g9CMc3eiNPZHp10Uk&usp=drive_fs)
 
+### 📷 QR Code Scan — Part Lookup & Manuals
+
+Scan any part’s QR code to instantly view:
+
+* 📄 PDF manuals
+* 📹 Video tutorials
+* 🖼️ Instruction images
+* 🤖 Direct access to Ask AI about the scanned part
+
+🎥 [Watch QR Code Feature](https://drive.google.com/open?id=1ZRIAh2mlIcqYzuquIOOsoz-Pip5AYO_x&usp=drive_fs)
+
+
 ##  About the Developer
 
 Built by **Reza (@Sonovo)** – SCADA Engineer and iOS Developer.  
