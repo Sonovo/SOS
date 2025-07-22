@@ -1,6 +1,6 @@
 # SOS – SCADA On Smart Devices
 
-**SOS** is a mobile-first SCADA platform I developed to give engineers real-time control and smart tools directly on iPhones and iPads. It connects to PLC systems (like Siemens and Rockwell) and brings factory-level insights to the field — fast, portable, and intelligent.
+**SOS** is a mobile-first SCADA platform I developed to give engineers real-time control and smart tools directly on iPhones and iPads. It connects to PLC systems (like Siemens) and brings factory-level insights to the field — fast, portable, and intelligent.
 
 ---
 
